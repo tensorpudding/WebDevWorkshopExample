@@ -1,0 +1,27 @@
+.wow {
+  width: 100px;
+}
+
+body {
+  font-family: "helvetica", sans-serif;
+}
+
+.mono {
+  font-family: "Menlo";
+}
+
+#bigstuff {
+  font-size: 32pt;
+  text-align: center;
+}
+#bigstuff:hover {
+  font-family: "Comic Sans MS";
+  color: white;
+  background-color: red;
+}
+
+p {
+  color: red;
+  align-content: center;
+}
+
